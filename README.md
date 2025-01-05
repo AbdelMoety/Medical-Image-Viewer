@@ -42,7 +42,7 @@ You can install all dependencies using the `requirements.txt` file.
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MedicalImageApp.git
+   git clone https://github.com/AbdelMoety/Medical-Image-Viewer.git
 2. Navigate to the project directory:
    cd MedicalImageApp
 3. Create a virtual environment and activate it:
@@ -63,6 +63,17 @@ You can install all dependencies using the `requirements.txt` file.
    View histograms and image statistics.
 
 ---
+
+## **Screenshots**
+
+### Different Interpolation Methods
+![different_interpolation_methods](screenshots/different_interpolation_methods.png)
+
+### Histogram
+![histogram](screenshots/histogram.png)
+
+### Noising And Denoising
+![noising_and_denoising](screenshots/noising_and_denoising.png)
 
 ## **License**
 This project is licensed under the MIT License.
