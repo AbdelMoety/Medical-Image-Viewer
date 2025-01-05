@@ -67,13 +67,13 @@ You can install all dependencies using the `requirements.txt` file.
 ## **Screenshots**
 
 ### Different Interpolation Methods
-![different_interpolation_methods](screenshots/different_interpolation_methods.png)
+![different_interpolation_methods](screenShots/different_interpolation_methods.png)
 
 ### Histogram
-![histogram](screenshots/histogram.png)
+![histogram](screenShots/histogram.png)
 
 ### Noising And Denoising
-![noising_and_denoising](screenshots/noising_and_denoising.png)
+![noising_and_denoising](screenShots/noising_and_denoising.png)
 
 ## **License**
 This project is licensed under the MIT License.
